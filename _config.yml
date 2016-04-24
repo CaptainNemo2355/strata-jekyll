@@ -1,22 +1,20 @@
-title: Strata by HTML5 UP
+title: WarMachines
 description: >
-  **I am Strata**, a super simple
-  responsive site template freebie
-  crafted by [HTML5 UP](http://html5up.net).
-copyright: Untitled
+  ** This is the WarMachines blog **
+copyright: Prajjwal Srivastava
 sass:
   sass_dir: assets/sass
 url: http://localhost:4000
-disqus_shortname: stratajekylldemo
-facebook_username:
-twitter_username: "#"
-linkedin_username: "#"
-instagram_username:
-pinterest_username:
-flickr_username:
-github_username:  "#"
+#disqus_shortname: stratajekylldemo
+#facebook_username:
+twitter_username: "sunny160500"
+#linkedin_username: "#"
+#instagram_username:
+#pinterest_username:
+#flickr_username:
+github_username:  "CaptainNemo2355"
 feed_icon: rss
-email: "#"
+email: "sunny160500@gmail.com"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
